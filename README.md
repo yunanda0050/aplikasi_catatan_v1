@@ -18,11 +18,14 @@ Aplikasi manajemen catatan pribadi berbasis web yang interaktif, aman, dan respo
 
 | Halaman Login | Halaman Utama Catatan |
 | :---: | :---: |
-| <img src="notepad3.jpeg" width="400" alt="Login Page"/> | <img src="notepad1.jpeg" width="400" alt="Home Page"/> |
+| <img width="1366" height="612" alt="notepad3" src="https://github.com/user-attachments/assets/fc76db36-a959-4f93-a975-429aaed4311a" />
+ | <img width="1366" height="615" alt="notepad1" src="https://github.com/user-attachments/assets/6e7cbba2-fea7-4e24-9b89-cd6acc6ca606" />
+ |
 
 | Halaman Tambah Catatan |
 | :---: |
-| <img src="notepad2.jpeg" width="400" alt="Add Note Page"/> |
+| <img width="1366" height="609" alt="notepad2" src="https://github.com/user-attachments/assets/21eb41a8-b725-4b36-8cb2-a666d682b5b2" />
+ |
 
 --
 
