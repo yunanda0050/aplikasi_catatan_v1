@@ -19,18 +19,24 @@ const AddNote = ({ addNote, setNotes }) => {
     setIsDisabled(!(title.trim() !== '' && body.trim() !== ''));
   }, [title, body]);
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     const newNote = {
       id: new Date().getTime(),
       title,
       body,
       createdAt: new Date().toLocaleDateString(),
     };
-    addNote(newNote); // Use the addNote function to update notes in Home
 
-    setTitle('');
-    setBody('');
-    navigate('/');
+    try {
+      await addNote(newNote);
+      setTitle('');
+      setBody('');
+      navigate('/home');
+    } catch (error) {
+      console.error('Failed to add note:', error);
+      // Handle error, show message, etc.
+      message.error('Failed to add note. Please try again.');
+    }
   };
   
   return (
@@ -52,7 +58,7 @@ const AddNote = ({ addNote, setNotes }) => {
         borderColor: isDisabled ? '#d9d9d9' : '#1890ff', }}>
         Tambah Catatan
       </Button>
-      <Link to="/">Kembali ke Daftar Catatan</Link>
+      <Link to="/home">Kembali ke Daftar Catatan</Link>
     </section>
   );
 };
