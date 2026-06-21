@@ -52,4 +52,4 @@ Pastikan komputer Anda sudah terinstal **Node.js** (versi rekomendasi LTS).
 ### Langkah-Langkah:
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/yunanda0050/notes-app.git](https://github.com/yunanda0050/notes-app.git)
+   git clone https://github.com/yunanda0050/notes-app.git
