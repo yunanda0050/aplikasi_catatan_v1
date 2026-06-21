@@ -44,12 +44,3 @@ Aplikasi manajemen catatan pribadi berbasis web yang interaktif, aman, dan respo
 
 ---
 
-## 💻 Cara Menjalankan Projek di Lokal
-
-### Prasyarat
-Pastikan komputer Anda sudah terinstal **Node.js** (versi rekomendasi LTS).
-
-### Langkah-Langkah:
-1. **Clone Repositori**
-   ```bash
-   git clone https://github.com/yunanda0050/notes-app.git
