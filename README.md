@@ -18,19 +18,19 @@ Aplikasi manajemen catatan pribadi berbasis web yang interaktif, aman, dan respo
 
 | Halaman Login |
 | :---: |
-| <img width="1366" height="612" alt="notepad3" src="https://github.com/user-attachments/assets/fc76db36-a959-4f93-a975-429aaed4311a" />
+| <img width="1366" height="612" alt="notepad3" src="https://github.com/user-attachments/assets/fc76db36-a959-4f93-a975-429aaed4311a" /> |
 
 | Halaman Utama Catatan |
 | :---: |
-| <img width="1366" height="615" alt="notepad1" src="https://github.com/user-attachments/assets/a1ff6536-a5a7-4e8e-9017-d67c41b2f916" />
+| <img width="1366" height="615" alt="notepad1" src="https://github.com/user-attachments/assets/a1ff6536-a5a7-4e8e-9017-d67c41b2f916" /> |
 
 | Halaman Tambah Catatan |
 | :---: |
-| <img width="1366" height="609" alt="notepad2" src="https://github.com/user-attachments/assets/21eb41a8-b725-4b36-8cb2-a666d682b5b2" />
+| <img width="1366" height="609" alt="notepad2" src="https://github.com/user-attachments/assets/21eb41a8-b725-4b36-8cb2-a666d682b5b2" /> |
  
 | Halaman Daftar Catatan |
 | :---: |
-| <img width="1366" height="623" alt="notepad4" src="https://github.com/user-attachments/assets/00437846-2ca8-49a4-ba4c-477fa4cff2d7" />
+| <img width="1366" height="623" alt="notepad4" src="https://github.com/user-attachments/assets/00437846-2ca8-49a4-ba4c-477fa4cff2d7" /> |
 
 --
 
